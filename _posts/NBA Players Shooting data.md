@@ -1,3 +1,11 @@
+
+---
+layout: post
+title: NBA Players Shooting Data
+image: "/posts/primes_image.jpeg"
+tags: [Python, Primes]
+---
+
 ![westbrook vs Trae Young.jpg](attachment:920c67be-565b-4005-90a0-de77c2047c25.jpg)
 
 # NBA Shooting Data
