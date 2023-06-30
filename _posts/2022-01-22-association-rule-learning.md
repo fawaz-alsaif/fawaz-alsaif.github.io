@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Understanding Product Relationships Using Association Rule Learning
-image: "/posts/association-rules-title-img.png"
+image: "/posts/marketbasket2.jpg"
 tags: [Association Rule Learning, Python]
 ---
 
