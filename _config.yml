@@ -14,20 +14,20 @@ description: "A versatile professional with a diverse background in Oil & Gas, D
 As the founder of Alsaif Analytics, I am dedicated to harnessing the power of data analytics and machine learning to optimize business processes and uncover new opportunities. On LinkedIn, I actively foster connections and exchange ideas with professionals who share a similar passion for innovation and entrepreneurial growth.
 
 With an unwavering commitment to staying current in my field, I continually seek opportunities to enhance my skills and knowledge to maintain a competitive edge in today's fast-paced business landscape. I am eager to connect and collaborate with those who seek to leverage data-driven insights to achieve exceptional results."
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "www.alsaifanalytics.com" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 #-------------------------------
 # About Section
-subtitle: Data Science <span style="color:#f58506"> Portfolio </span>
+subtitle: Data Science/Analytics <span style="color:#f58506"> Portfolio </span>
 location: "Kuwait"
-resume_url: /docs/Fawaz_alsaif_resume.pdf
+resume_url: /img/Fawaz_alsaif_resume.pdf
 avatar_image: /img/fawaz-alsaif.jpg
 
 #-------------------------------
 # Contact links
-linkedln: "https://linkedln.com/#" # Add your linkedln handle
-github: "https://github.com/#"  # Add your github handle
+linkedln: "https://www.linkedin.com/in/fawazalsaif/" # Add your linkedln handle
+github: "https://github.com/fawaz-alsaif#"  # Add your github handle
 
 paginate: 6
 paginate_path: "/page/:num"
