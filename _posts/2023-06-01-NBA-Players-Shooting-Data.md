@@ -1,4 +1,9 @@
-![westbrook vs Trae Young.jpg](attachment:920c67be-565b-4005-90a0-de77c2047c25.jpg)
+---
+layout: post
+title: NBA Players Shooting Data
+image: "/posts/westbrook vs Trae Young.jpeg"
+tags: [Python, Primes]
+---
 
 # NBA Shooting Data
 
