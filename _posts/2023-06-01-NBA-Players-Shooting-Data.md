@@ -1,7 +1,7 @@
 ---
 layout: post
 title: NBA Players Shooting Data
-image: "img/posts/westbrook vs Trae Young.jpg"
+image: "/img/posts/westbrook vs Trae Young.jpg"
 tags: [Python, NBA, Visualization]
 ---
 
