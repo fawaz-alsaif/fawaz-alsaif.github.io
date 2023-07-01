@@ -2,7 +2,7 @@
 layout: post
 title: NBA Players Shooting Data
 image: "img/posts/westbrook vs Trae Young.jpeg"
-tags: [Python, Primes]
+tags: [Python, NBA, Visualization]
 ---
 
 # NBA Shooting Data
