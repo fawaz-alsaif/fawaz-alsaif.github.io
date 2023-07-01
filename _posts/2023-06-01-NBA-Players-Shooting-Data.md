@@ -1,7 +1,7 @@
 ---
 layout: post
 title: NBA Players Shooting Data
-image: "/posts/westbrook vs Trae Young.jpeg"
+image: "img/posts/westbrook vs Trae Young.jpeg"
 tags: [Python, Primes]
 ---
 
@@ -15,12 +15,6 @@ This dataset contains shooting statistics for four different players during the 
 - Russell Westbrook
 
 In this project, we will compare the four players shooting profile and formulate a list of advices for each players to maximize player performance.
-
-
-
-
-
-
 
 ```python
 import pandas as pd
@@ -356,13 +350,13 @@ plt.show()
 
 
     
-![png](output_17_0.png)
+![png](img/posts/output_17_0.png)
     
 
 
 
     
-![png](output_17_1.png)
+![png](img/posts/output_17_1.png)
     
 
 
@@ -423,7 +417,7 @@ plt.show()
 
 
     
-![png](output_19_0.png)
+![png](img/posts/output_19_0.png)
     
 
 
@@ -515,7 +509,7 @@ plt.show()
 
 
     
-![png](output_21_0.png)
+![png](img/posts/output_21_0.png)
     
 
 
@@ -682,7 +676,7 @@ plt.show()
 
 
     
-![png](output_27_0.png)
+![png](img/posts/output_27_0.png)
     
 
 
@@ -738,7 +732,7 @@ plt.show()
 
 
     
-![png](output_29_0.png)
+![png](img/posts/output_29_0.png)
     
 
 
@@ -932,7 +926,7 @@ plt.show()
 
 
     
-![png](output_33_0.png)
+![png](img/posts/output_33_0.png)
     
 
 
@@ -973,7 +967,7 @@ plt.show()
 
 
     
-![png](output_35_0.png)
+![png](img/posts/output_35_0.png)
     
 
 
