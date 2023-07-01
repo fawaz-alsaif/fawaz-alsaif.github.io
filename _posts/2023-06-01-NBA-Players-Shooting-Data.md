@@ -350,7 +350,7 @@ plt.show()
 
 
     
-![png](/posts/output-17-0.png)
+![png](/img/posts/output-17-0.png)
     
 
 
