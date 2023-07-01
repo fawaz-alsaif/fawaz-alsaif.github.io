@@ -1,7 +1,7 @@
 ---
 layout: post
 title: NBA Players Shooting Data
-image: "img/posts/westbrook vs Trae Young.jpg"
+image: "posts/westbrook vs Trae Young.jpg"
 tags: [Python, NBA, Visualization]
 ---
 
@@ -350,13 +350,13 @@ plt.show()
 
 
     
-![png](img/posts/output_17_0.png)
+![png](posts/output_17_0.png)
     
 
 
 
     
-![png](img/posts/output_17_1.png)
+![png](posts/output_17_1.png)
     
 
 
@@ -417,7 +417,7 @@ plt.show()
 
 
     
-![png](img/posts/output_19_0.png)
+![png](posts/output_19_0.png)
     
 
 
@@ -509,7 +509,7 @@ plt.show()
 
 
     
-![png](img/posts/output_21_0.png)
+![png](posts/output_21_0.png)
     
 
 
@@ -676,7 +676,7 @@ plt.show()
 
 
     
-![png](img/posts/output_27_0.png)
+![png](posts/output_27_0.png)
     
 
 
@@ -732,7 +732,7 @@ plt.show()
 
 
     
-![png](img/posts/output_29_0.png)
+![png](posts/output_29_0.png)
     
 
 
@@ -926,7 +926,7 @@ plt.show()
 
 
     
-![png](img/posts/output_33_0.png)
+![png](posts/output_33_0.png)
     
 
 
@@ -967,7 +967,7 @@ plt.show()
 
 
     
-![png](img/posts/output_35_0.png)
+![png](posts/output_35_0.png)
     
 
 
