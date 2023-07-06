@@ -4,7 +4,8 @@ title: NBA Players Shooting Data
 image: "/posts/westbrook-vs-Trae-Young.jpg"
 tags: [Python, NBA, Visualization]
 ---
-## The business case:
+
+# The business case:
 
 A university basketball team has hired you to use data to improve their performance. They want to know whether it's possible to use past data to provide tailored recommendations to players.
 
@@ -12,7 +13,7 @@ As a test, you have been provided with NBA shooting data for four players. The m
 
 You will need to prepare a report that is accessible to a broad audience. It will need to outline your steps, findings, and conclusions.
 
-# NBA Shooting Data
+# The dataset
 
 This dataset contains shooting statistics for four different players during the 2021 NBA Playoffs.
 
