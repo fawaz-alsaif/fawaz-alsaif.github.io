@@ -172,20 +172,6 @@ pd.read_csv("nba_players_shooting.csv", index_col=0)
 <p>776 rows × 6 columns</p>
 </div>
 
-
-
-## Data Dictionary
-|variable |class     |description                                                  |
-|:--------|:---------|:------------------------------------------------------------|
-|SHOOTER  |String    |Name of the player taking the shot                           |
-|X        |float     |Horizontal distance of the shot taken from the basket in ft  |
-|Y        |float     |Vertical distance of the shot taken from the basket in ft    |
-|RANGE    |String    |Radius range of the shot taken from the basket in ft         |
-|DEFENDER |String    |Name of the player defending the shot                        |
-|SCORE    |String    |'MADE' if shot is scored, else 'MISSED'                      |
-
-[Source](https://www.nba.com/stats/players/shooting/?Season=2020-21&SeasonType=Playoffs&PerMode=Totals) of dataset.
-
 # I- Exploratory Data Analysis
 
 First, let's explore the data and conduct initial vizualization to understand the data better.
