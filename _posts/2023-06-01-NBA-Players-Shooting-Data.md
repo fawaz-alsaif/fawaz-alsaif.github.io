@@ -4,6 +4,13 @@ title: NBA Players Shooting Data
 image: "/posts/westbrook-vs-Trae-Young.jpg"
 tags: [Python, NBA, Visualization]
 ---
+## The business case:
+
+A university basketball team has hired you to use data to improve their performance. They want to know whether it's possible to use past data to provide tailored recommendations to players.
+
+As a test, you have been provided with NBA shooting data for four players. The manager of the university team has asked you whether it is possible to provide data-driven recommendations for each player based on their likelihood of making a shot.
+
+You will need to prepare a report that is accessible to a broad audience. It will need to outline your steps, findings, and conclusions.
 
 # NBA Shooting Data
 
@@ -179,14 +186,6 @@ pd.read_csv("nba_players_shooting.csv", index_col=0)
 
 [Source](https://www.nba.com/stats/players/shooting/?Season=2020-21&SeasonType=Playoffs&PerMode=Totals) of dataset.
 
-## The business case:
-
-A university basketball team has hired you to use data to improve their performance. They want to know whether it's possible to use past data to provide tailored recommendations to players.
-
-As a test, you have been provided with NBA shooting data for four players. The manager of the university team has asked you whether it is possible to provide data-driven recommendations for each player based on their likelihood of making a shot.
-
-You will need to prepare a report that is accessible to a broad audience. It will need to outline your steps, findings, and conclusions.
-
 # I- Exploratory Data Analysis
 
 First, let's explore the data and conduct initial vizualization to understand the data better.
@@ -272,7 +271,7 @@ print(data.isnull().sum())
 
 We can see that there are no missing values in this data, which means that we do not have to 
 
-## 3. Generate Summart Statistics
+## 3. Generate Summary Statistics
 
 
 ```python
@@ -319,8 +318,6 @@ print(data['SCORE'].value_counts())
 
 
 ## 4. Visualize the data
-
-
 
 
 ```python
