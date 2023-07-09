@@ -1,13 +1,9 @@
 ---
 layout: post
-title: Assessing Data Quality
+title: KPMG Data Analytics Virtual Internship Program - Taks 1: Assessing data quality 
 image: "/posts/primes_image.jpeg"
 tags: [Consulting, Data Quality, EDA, Business Context]
 ---
-
-
-# **KPMG Data Analytics - Virtual Internship Program**
-# **Activity 1 - Assessing data quality**
 
 Sprocket Central Pty Ltd , a medium size bikes & cycling accessories organisation, has approached Tony Smith (Partner) in KPMG’s Lighthouse & Innovation Team. Sprocket Central Pty Ltd  is keen to learn more about KPMG’s expertise in its Analytics, Information & Modelling team.
 
