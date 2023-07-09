@@ -1,3 +1,12 @@
+
+---
+layout: post
+title: Assessing Data Quality
+image: "/posts/primes_image.jpeg"
+tags: [Consulting, Data Quality, EDA, Business Context]
+---
+
+
 # **KPMG Data Analytics - Virtual Internship Program**
 # **Activity 1 - Assessing data quality**
 
