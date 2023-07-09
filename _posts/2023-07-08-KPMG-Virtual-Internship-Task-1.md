@@ -1,6 +1,6 @@
 ---
 layout: post
-title: KPMG Data Analytics Virtual Internship Program - Taks 1: Assessing data quality 
+title: Assessing data quality (KPMG Virtual Internship) Task 1
 image: "/posts/primes_image.jpeg"
 tags: [Consulting, Data Quality, EDA, Business Context]
 ---
