@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Assessing Data Quality
