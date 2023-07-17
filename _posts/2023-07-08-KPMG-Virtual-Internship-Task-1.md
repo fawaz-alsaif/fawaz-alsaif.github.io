@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Assessing data quality (KPMG Virtual Internship) Task 1
-image: "/posts/primes_image.jpeg"
+title: Assessing data quality (KPMG Virtual Internship - Part 1)
+image: "/posts/riding-mountains.jpg"
 tags: [Consulting, Data Quality, EDA, Business Context]
 ---
 
