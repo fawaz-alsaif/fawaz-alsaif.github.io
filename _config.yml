@@ -19,7 +19,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # About Section
 subtitle: Data Science/Analytics <span style="color:#f58506"> Portfolio </span>
 location: "Kuwait"
-resume_url: /img/Fawaz_alsaif_resume.pdf
+resume_url: https://www.cakeresume.com/fawaz-alsaif
 avatar_image: /img/fawaz-alsaif.jpg
 
 #-------------------------------
